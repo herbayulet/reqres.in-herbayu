@@ -4,6 +4,8 @@
 
 ## Fitur
 
+- Login
+- Register
 - Read Data
 - Create Data
 - Delete Data
@@ -18,6 +20,7 @@
 - [Zustand](https://zustand-demo.pmnd.rs/)
 - [React-Native-Bottom-Sheet](https://github.com/gorhom/react-native-bottom-sheet)
 
-
+## Sumber API  
+[reqres](https://reqres.in)
 
   
